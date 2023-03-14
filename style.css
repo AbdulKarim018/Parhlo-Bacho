@@ -1,0 +1,72 @@
+body {
+    margin: auto;
+}
+
+/* .main-div {
+    font-family: "Bangers", cursive;
+    font-family: "Poppins", sans-serif;
+    font-family: "Public Sans", sans-serif;
+    font-family: "Tilt Neon", cursive;
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+  } */
+
+.navbar {
+    /* background-color: white !important; */
+    position: sticky;
+    padding: 20px;
+}
+
+.margin {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.div2 {
+    margin-bottom: 20px;
+}
+
+.container1 {
+    display: flex;
+    align-items: center;
+}
+
+.container1 img {
+    width: 50%;
+    height: auto;
+}
+
+.container1 .text {
+    width: 50%;
+    padding: 20px;
+}
+
+.container1 .text h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.container1 .text p {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.text1 {
+    margin-bottom: 100px;
+}
+
+.last-div {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.texts {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
